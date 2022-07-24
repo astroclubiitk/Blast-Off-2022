@@ -10,7 +10,10 @@ Project resources and assignments will be pushed to this repository on a pereodi
 │   README.md
 │
 ├── Project Report
-│   └── Mid Term Presentation.pdf
+│   ├── Documentation.pdf
+│   ├── End Term Presentation.pdf
+│   ├── Mid Term Presentation.pdf
+│   └── Poster.pdf
 ├── Week 1
 │   ├── Lecture 1.pdf
 │   └── Lecture 2.pdf
