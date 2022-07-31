@@ -42,6 +42,9 @@ Project resources and assignments will be pushed to this repository on a pereodi
     └── Solution 5b.ipynb
 ```
 
+## Abstract
+The project aims to study the fundamentals of Rocketry and to appreciate the engineering that goes into building rockets for successful space programs. We shall begin by understanding the foundations of rocket design and propulsion systems. Then moving on with orbital dynamics of objects launched in space. We will also look into optimising rockets for the maximum payload to cost ratio through multi-objective genetic algorithms. Towards the end of the project, we would focus on building and launching a model rocket, a first for IIT Kanpur.
+
 ## Mentors
 - Adit Jain (<a href="https://github.com/Jadit19">@Jadit19</a>)
 - Shashank Sinha (<a href="https://github.com/bl3hh">@bl3hh</a>)
